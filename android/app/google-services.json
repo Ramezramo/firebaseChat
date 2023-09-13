@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825117567833",
+    "project_id": "chat-proj-c03e1",
+    "storage_bucket": "chat-proj-c03e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825117567833:android:102dd58ae9952ba3513a48",
+        "android_client_info": {
+          "package_name": "com.angelFrame.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825117567833-rfm3cjnooqtvhuoki5125n6vgpk1dgv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn766QO2B87UntP7AXINA-KG8Sbo8Yew0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825117567833-rfm3cjnooqtvhuoki5125n6vgpk1dgv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
